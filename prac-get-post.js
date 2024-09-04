@@ -5,21 +5,21 @@ app.listen(8888);
 
 // data 셋팅
 let user1 = {
-    userName : "김김김",
+    name : "김김김",
     email : "kim@programmers.co.kr",
     age: 14,
     sex: "F"
 }
 
 let user2 = {
-    userName : "이이이",
+    name : "이이이",
     email : "lee@programmers.co.kr",
     age: 21,
     sex: "M"
 }
 
 let user3 = {
-    userName : "박박박",
+    name : "박박박",
     email : "park@programmers.co.kr",
     age: 22,
     sex: "M"
